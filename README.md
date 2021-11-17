@@ -2,7 +2,7 @@
 
 📱Desarrollador mobile Android/iOS nativo y Flutter📱
 
-He trabajado por más de 5 años en el desarollo y diseño de software, enfocado en aplicaciones mobile.
+He trabajado por más de 5 años en el desarollo y diseño de diferentes proyectos de software, enfocado en aplicaciones mobile.
 También me ha tocado desarrollar proyectos backend y frontend con node, express, mongo, angular, react, java, c#, firebase y aws.
 
 ### Skills
