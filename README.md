@@ -33,7 +33,7 @@ También me ha tocado desarrollar proyectos backend y frontend con node, express
 
 ### Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Cristobal-brown?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexis-cristóbal-61b47274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Cristobal-brown?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/john-alexis-cristobal/)
 </br>
 [![Correo](https://img.shields.io/badge/Gmail-Correo_personal-brown?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cristobaljohn00@gmail.com)
 <!--
