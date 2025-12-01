@@ -18,9 +18,6 @@ También me ha tocado desarrollar proyectos backend y frontend con node, express
 </br>
 [![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&labelColor=101010)]()
 </br>
-[![React](https://img.shields.io/badge/React-orange?style=flat&logo=react&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-orange?style=flat&logo=angular&logoColor=white&labelColor=101010)]()
-</br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=flat&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
